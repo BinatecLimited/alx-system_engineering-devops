@@ -4,3 +4,4 @@
 3-listfiles is used to display current directory contents in a long format
 4-listmorefiles is used to display current directory contents, including hidden files (starting with .)
 5-listfilesdigitonly displays current directory content in Long Format with user and group IDs displayed numerically and hidden files
+6-firstdirectory is used to create a directory in a specified destination folder
